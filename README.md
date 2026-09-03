@@ -2,3 +2,7 @@ Hi, I am Jeevith R, a Computer Science and Engineering student at REVA Universit
 Learning Java
 Interested in Artificial Intelligence
 Goal: become an internship-ready software developer
+
+## Projects
+
+I am currently working on building programming and software development projects as part of my Computer Science and Engineering journey.
